@@ -8,6 +8,6 @@ read num2
 
 sum=`expr $num1 + $num2`
 
-echo "sum of 2 given numbers is : $sum"
+echo "sum of 2 given numbers are : $sum"
 
 
